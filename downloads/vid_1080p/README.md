@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `vid_1080p.mp4` |
-| **Total Size** | **14 parts** - **618.20 MB** |
+| **Total Size** | **22 parts** - **947.67 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -30,7 +30,15 @@
 | 11 | `vid_1080p.z11` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z11) |
 | 12 | `vid_1080p.z12` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z12) |
 | 13 | `vid_1080p.z13` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z13) |
-| 14 | `vid_1080p.zip` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.zip) |
+| 14 | `vid_1080p.z14` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z14) |
+| 15 | `vid_1080p.z15` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z15) |
+| 16 | `vid_1080p.z16` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z16) |
+| 17 | `vid_1080p.z17` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z17) |
+| 18 | `vid_1080p.z18` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z18) |
+| 19 | `vid_1080p.z19` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z19) |
+| 20 | `vid_1080p.z20` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z20) |
+| 21 | `vid_1080p.z21` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.z21) |
+| 22 | `vid_1080p.zip` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_1080p/vid_1080p.zip) |
 
 ---
 
