@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `vid_720p.mp4` |
-| **Total Size** | **8 parts** - **350.56 MB** |
+| **Total Size** | **14 parts** - **595.06 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -24,7 +24,13 @@
 | 5 | `vid_720p.z05` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z05) |
 | 6 | `vid_720p.z06` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z06) |
 | 7 | `vid_720p.z07` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z07) |
-| 8 | `vid_720p.zip` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.zip) |
+| 8 | `vid_720p.z08` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z08) |
+| 9 | `vid_720p.z09` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z09) |
+| 10 | `vid_720p.z10` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z10) |
+| 11 | `vid_720p.z11` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z11) |
+| 12 | `vid_720p.z12` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z12) |
+| 13 | `vid_720p.z13` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.z13) |
+| 14 | `vid_720p.zip` | [Download](https://github.com/hossein1234525-crypto/downloader/raw/main/downloads/vid_720p/vid_720p.zip) |
 
 ---
 
