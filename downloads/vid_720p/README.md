@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `vid_720p.mp4` |
-| **Total Size** | **14 parts** - **595.06 MB** |
+| **Total Size** | **14 parts** - **585.51 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
